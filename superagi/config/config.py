@@ -3,6 +3,7 @@ from pydantic import BaseSettings
 from pathlib import Path
 import yaml
 
+
 CONFIG_FILE = "config.yaml"
 
 
